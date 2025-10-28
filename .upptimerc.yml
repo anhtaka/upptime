@@ -35,7 +35,7 @@ status-website:
 notifications:
   issues:
     enabled: true
-    repository: user/repo
+    repository: anhtaka/upptime
     labels:
       - "down"
       - "incident"
