@@ -22,18 +22,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 243,
-    "timeDay": 114,
-    "timeWeek": 91,
-    "timeMonth": 243,
-    "timeYear": 243,
-    "dailyMinutesDown": {}
+    "time": 249,
+    "timeDay": 256,
+    "timeWeek": 129,
+    "timeMonth": 249,
+    "timeYear": 249,
+    "dailyMinutesDown": {
+      "2025-11-12": 0
+    }
   },
   {
     "name": "Hacker News",
@@ -70,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-12": 57,
+      "2025-11-12": 339,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
